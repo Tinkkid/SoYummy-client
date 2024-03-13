@@ -30,10 +30,6 @@ const ShoppingListPage = lazy(() =>
 const RecipePage = lazy(() => import('pages/RecipePage/RecipePage'));
 const NotFoundPage = lazy(() => import('pages/NotFoundPage/NotFound'));
 
-// const WelcomePage = lazy(() => import('pages/WelcomePage/WelcomePage'));
-// const RegisterPage = lazy(() => import('pages/RegisterPage/RegisterPage'));
-// const SigninPage = lazy(() => import('pages/SigninPage/SigninPage'));
-
 const App = () => {
   const dispatcher = useDispatch();
   const { isRefreshing, token } = useSelector(selectAuth);
