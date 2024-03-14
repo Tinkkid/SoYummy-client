@@ -3,7 +3,7 @@
 ## Description:
 SoYummy is a feature-rich single-page application (SPA). Fully responsive design, oriented to any device (mobile, tablet, desktop).
 This app offers more than just a collection of recipes - it is designed to be your very own digital cookbook. You can easily save and retrieve your own recipes at any time.
-SoYummy [Live page](https://serhii-vasylenko.github.io/goit-final-project/).
+SoYummy [Live page](https://so-yummy-client-khaki.vercel.app/welcome).
 
 <span>
 <img src="./src/images/readme/so-yummy-sample-2.png" width="400" height="400" title="welcome">
@@ -61,7 +61,7 @@ Github repository: [https://github.com/IgoryanDeltoro/database-cli](https://gith
 [https://database-cli.onrender.com/so-yummy/api-docs/](https://database-cli.onrender.com/so-yummy/api-docs/)
 
 ## Team of developers:
-
+- [Yuliia Kostovynska](https://github.com/Tinkkid) - Frontend developer (Hi! It's me :-))
 - [Serhii Vasylenko](https://github.com/serhii-vasylenko) - Team-lead (Frontend), developer
 - [Ihor Bondarchuk](https://github.com/IgoryanDeltoro) - Team lead (Backend), developer
 - [Yuliia Rudenko](https://github.com/yulyarudenko88) - Scrum master, Frontend developer 
@@ -73,6 +73,5 @@ Github repository: [https://github.com/IgoryanDeltoro/database-cli](https://gith
 - [Tetiana Tsar](https://github.com/tumanchyk) - Frontend developer
 - [Daniil Popov](https://github.com/DaniilPopov0809) - Frontend developer
 - [Inna Khavrat](https://github.com/khavrat) - Frontend developer
-- [Yuliia Kostovynska](https://github.com/Tinkkid) - Frontend developer
 
 ### If you have any questions :question:, our development team will be happy to answer :technologist:.
